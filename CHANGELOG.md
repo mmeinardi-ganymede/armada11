@@ -14,9 +14,37 @@
 
 
 
-## 1.3.61 (2016-08-25)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 1.3.67 (2016-08-25)
 
 We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
+
+
+
+## 1.3.61 (2016-08-25)
+
+
+
+We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
+
+
+
+
 
 
 
@@ -24,7 +52,19 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
 We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
+
+
+
+
+
+
+
+
 
 
 
@@ -40,7 +80,31 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
 We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -72,7 +136,47 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -112,7 +216,47 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -152,7 +296,47 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -192,7 +376,47 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -232,7 +456,47 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -272,7 +536,47 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -312,7 +616,47 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -352,7 +696,47 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -392,7 +776,47 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -432,7 +856,47 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -472,7 +936,39 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -496,7 +992,39 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
 - Fixed critical bug with setting containers' config paths introduced in 1.3.0.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -536,6 +1064,22 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Bug fixes
 
 
@@ -544,7 +1088,39 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
 - Fixed critical bug with mounting containers' volumes introduced in 1.3.0.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -584,7 +1160,39 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -608,6 +1216,14 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
 - Optionally restrict possible config directories. By default root directory is mounted inside armada container in read-only mode, to verify existence of `--config` paths.
 
 
@@ -616,7 +1232,31 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
 This can be restricted by setting `RESTRICT_CUSTOM_CONFIG_DIRS` variable to a specific path. (e.g. /home/user/configs)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -648,7 +1288,31 @@ This can be restricted by setting `RESTRICT_CUSTOM_CONFIG_DIRS` variable to a sp
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Features
+
+
+
+
+
+
+
+
 
 
 
@@ -664,7 +1328,23 @@ This can be restricted by setting `RESTRICT_CUSTOM_CONFIG_DIRS` variable to a sp
 
 
 
+
+
+
+
+
+
+
+
     - `recovering`
+
+
+
+
+
+
+
+
 
 
 
@@ -680,7 +1360,23 @@ This can be restricted by setting `RESTRICT_CUSTOM_CONFIG_DIRS` variable to a sp
 
 
 
+
+
+
+
+
+
+
+
     - `crashed` for not running containers
+
+
+
+
+
+
+
+
 
 
 
@@ -704,7 +1400,31 @@ This can be restricted by setting `RESTRICT_CUSTOM_CONFIG_DIRS` variable to a sp
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
+
+
+
+
+
+
+
+
 
 
 
@@ -720,6 +1440,14 @@ This can be restricted by setting `RESTRICT_CUSTOM_CONFIG_DIRS` variable to a sp
 
 
 
+
+
+
+
+
+
+
+
 - While default armada network interface is unavailable armada uses host default interface.
 
 
@@ -728,7 +1456,31 @@ This can be restricted by setting `RESTRICT_CUSTOM_CONFIG_DIRS` variable to a sp
 
 
 
+
+
+
+
+
+
+
+
 - Fixed logging of Armada CLI commands
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -760,7 +1512,39 @@ This can be restricted by setting `RESTRICT_CUSTOM_CONFIG_DIRS` variable to a sp
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -784,6 +1568,14 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
 - Fix `armada list` always assuming `-l/--local` flag.
 
 
@@ -792,7 +1584,39 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
 - Revert old behavior in `armada list` that showed 'container_id' instead of 'microservice_id' in ID column.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -832,7 +1656,39 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -856,7 +1712,23 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
 - Fix filtering by `app_id` in `armada list`.
+
+
+
+
+
+
+
+
 
 
 
@@ -872,7 +1744,31 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
 - Fix installation of bash completion file.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -904,7 +1800,39 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -928,7 +1856,31 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
 - Added autocomplete of armada commands, dockyard aliases, services and ships names.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -952,7 +1904,31 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
 - 'armada list' command support wildcards *, ?.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -976,7 +1952,31 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
 - Remove HTTP_PROXY header.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1008,7 +2008,39 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1032,7 +2064,39 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
 - Fixed issue with unhandled exception during the installation process. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1072,7 +2136,39 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1096,7 +2192,23 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
 - Added logging of Armada CLI
+
+
+
+
+
+
+
+
 
 
 
@@ -1120,7 +2232,31 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Improvements
+
+
+
+
+
+
+
+
 
 
 
@@ -1136,7 +2272,31 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
 - Enabled autoreload of Armada API in development Vagrant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1168,7 +2328,31 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Ahoy sailor!**  
+
+
+
+
+
+
+
+
 
 
 
@@ -1184,7 +2368,23 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
 **Fair winds!**  
+
+
+
+
+
+
+
+
 
 
 
@@ -1224,7 +2424,55 @@ We do best effort to support docker versions 1.6.0 - 1.12.0 with this release.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 We do best effort to support docker versions 1.6.0 - 1.10.3 with this release.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1248,7 +2496,31 @@ We do best effort to support docker versions 1.6.0 - 1.10.3 with this release.
 
 
 
+
+
+
+
+
+
+
+
 :balloon: Added indicator of current ship in 'armada info'.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1272,6 +2544,14 @@ We do best effort to support docker versions 1.6.0 - 1.10.3 with this release.
 
 
 
+
+
+
+
+
+
+
+
 :balloon: Fix log file permission error.  
 
 
@@ -1280,7 +2560,23 @@ We do best effort to support docker versions 1.6.0 - 1.10.3 with this release.
 
 
 
+
+
+
+
+
+
+
+
 :balloon: Fix getting docker pid on centos7.  
+
+
+
+
+
+
+
+
 
 
 
@@ -1304,6 +2600,22 @@ We do best effort to support docker versions 1.6.0 - 1.10.3 with this release.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Improvements
 
 
@@ -1312,7 +2624,39 @@ We do best effort to support docker versions 1.6.0 - 1.10.3 with this release.
 
 
 
+
+
+
+
+
+
+
+
 :balloon: Install armada pip package (with hermes) in microservice_python* base images.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1352,7 +2696,39 @@ We do best effort to support docker versions 1.6.0 - 1.10.3 with this release.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 We do best effort to support docker versions 1.6.0 - 1.10.3 with this release.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1376,6 +2752,14 @@ We do best effort to support docker versions 1.6.0 - 1.10.3 with this release.
 
 
 
+
+
+
+
+
+
+
+
 - Do not use local restart if --ship parameter is provided.
 
 
@@ -1384,7 +2768,31 @@ We do best effort to support docker versions 1.6.0 - 1.10.3 with this release.
 
 
 
+
+
+
+
+
+
+
+
 - Fix issue with fallback to the default dockyard alias if the -d options is not provided.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1416,7 +2824,39 @@ We do best effort to support docker versions 1.6.0 - 1.10.3 with this release.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 We do best effort to support docker versions 1.6.0 - 1.10.3 with this release.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1440,7 +2880,39 @@ We do best effort to support docker versions 1.6.0 - 1.10.3 with this release.
 
 
 
+
+
+
+
+
+
+
+
 - Fix displaying the information about the new version.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1480,7 +2952,39 @@ We do best effort to support docker versions 1.6.0 - 1.10.3 with this release.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 We do best effort to support docker versions 1.6.0 - 1.10.3 with this release.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1504,7 +3008,23 @@ We do best effort to support docker versions 1.6.0 - 1.10.3 with this release.
 
 
 
+
+
+
+
+
+
+
+
 Due to internal changes in Armada, all Armada agents within the same cluster need to be upgraded, otherwise
+
+
+
+
+
+
+
+
 
 
 
@@ -1528,7 +3048,31 @@ remote runs and restarts will not work, and `armada info` may contain incorrect 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Features
+
+
+
+
+
+
+
+
 
 
 
@@ -1544,7 +3088,23 @@ remote runs and restarts will not work, and `armada info` may contain incorrect 
 
 
 
+
+
+
+
+
+
+
+
 - Added images versioning. Since now it's possible to build, push and run services using `service_name:tag` notation or `:tag` notation if the `MICROSERVICE_NAME` env is provided.
+
+
+
+
+
+
+
+
 
 
 
@@ -1568,7 +3128,31 @@ remote runs and restarts will not work, and `armada info` may contain incorrect 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Improvements
+
+
+
+
+
+
+
+
 
 
 
@@ -1584,6 +3168,14 @@ remote runs and restarts will not work, and `armada info` may contain incorrect 
 
 
 
+
+
+
+
+
+
+
+
 - Store names of Armada ships in Consul's kv store. `armada name` does not restart Armada service anymore and is much
 
 
@@ -1592,7 +3184,23 @@ remote runs and restarts will not work, and `armada info` may contain incorrect 
 
 
 
+
+
+
+
+
+
+
+
 faster.
+
+
+
+
+
+
+
+
 
 
 
@@ -1616,6 +3224,22 @@ faster.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Bug fixes
 
 
@@ -1624,7 +3248,39 @@ faster.
 
 
 
+
+
+
+
+
+
+
+
 - Fix build of `microservice_python3.5` base image.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1664,7 +3320,31 @@ faster.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Improvements
+
+
+
+
+
+
+
+
 
 
 
@@ -1688,7 +3368,31 @@ faster.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Bug fixes
+
+
+
+
+
+
+
+
 
 
 
@@ -1704,7 +3408,23 @@ faster.
 
 
 
+
+
+
+
+
+
+
+
 - Fix detection of Docker daemon start time, which could cause unnecessary recovery.
+
+
+
+
+
+
+
+
 
 
 
@@ -1720,7 +3440,39 @@ faster.
 
 
 
+
+
+
+
+
+
+
+
 - Fix race condition in require_service.py, causing not registering service in local magellan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1760,6 +3512,22 @@ faster.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Improvements
 
 
@@ -1768,7 +3536,23 @@ faster.
 
 
 
+
+
+
+
+
+
+
+
 - Update haproxy in microservice image (used by local magellan), from 1.5 to 1.6.
+
+
+
+
+
+
+
+
 
 
 
@@ -1792,7 +3576,31 @@ faster.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Bug fixes
+
+
+
+
+
+
+
+
 
 
 
@@ -1808,6 +3616,14 @@ faster.
 
 
 
+
+
+
+
+
+
+
+
 - Fixed checking for newest local image of service on restart in vagrant development environment.
 
 
@@ -1816,7 +3632,39 @@ faster.
 
 
 
+
+
+
+
+
+
+
+
 - Fix import errors in couple of backend scripts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1856,7 +3704,31 @@ faster.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Improvements
+
+
+
+
+
+
+
+
 
 
 
@@ -1872,6 +3744,14 @@ faster.
 
 
 
+
+
+
+
+
+
+
+
 mounted from local workstation.
 
 
@@ -1880,7 +3760,23 @@ mounted from local workstation.
 
 
 
+
+
+
+
+
+
+
+
 - Moved armada installation script from [armada-website](https://github.com/armadaplatform/armada-website) repository to armada repository.
+
+
+
+
+
+
+
+
 
 
 
@@ -1904,6 +3800,22 @@ mounted from local workstation.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Bug fixes
 
 
@@ -1912,7 +3824,31 @@ mounted from local workstation.
 
 
 
+
+
+
+
+
+
+
+
 - Fixed issue with passing arguments to `armada ssh`.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1944,7 +3880,31 @@ mounted from local workstation.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Features
+
+
+
+
+
+
+
+
 
 
 
@@ -1960,6 +3920,14 @@ mounted from local workstation.
 
 
 
+
+
+
+
+
+
+
+
 - E.g.: `armada restart myservice --ship 10.0.0.2`
 
 
@@ -1968,7 +3936,23 @@ mounted from local workstation.
 
 
 
+
+
+
+
+
+
+
+
 - If moved service contains mounted volumes or statically assigned ports, restart will fail unless `-f \ --force` flag is provided.
+
+
+
+
+
+
+
+
 
 
 
@@ -1992,6 +3976,22 @@ mounted from local workstation.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Improvements
 
 
@@ -2000,7 +4000,31 @@ mounted from local workstation.
 
 
 
+
+
+
+
+
+
+
+
 - Nicified `armada restart` warning/error output.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2032,6 +4056,22 @@ mounted from local workstation.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### :warning: **UPGRADE WARNING** :warning:
 
 
@@ -2040,7 +4080,23 @@ mounted from local workstation.
 
 
 
+
+
+
+
+
+
+
+
 Due to changes in armada internal API, all armada agents within the same cluster need to be upgraded, otherwise
+
+
+
+
+
+
+
+
 
 
 
@@ -2064,7 +4120,31 @@ remote runs and restarts will not work.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Features
+
+
+
+
+
+
+
+
 
 
 
@@ -2080,7 +4160,23 @@ remote runs and restarts will not work.
 
 
 
+
+
+
+
+
+
+
+
 - Default memory limit (both resident and swap) for services can now be customized per host. E.g. Add line
+
+
+
+
+
+
+
+
 
 
 
@@ -2104,7 +4200,31 @@ remote runs and restarts will not work.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Improvements
+
+
+
+
+
+
+
+
 
 
 
@@ -2120,6 +4240,14 @@ remote runs and restarts will not work.
 
 
 
+
+
+
+
+
+
+
+
 - `$CONFIG_PATH` environment variable inside microservice (and mounted volumes for these configs) are now updated during
 
 
@@ -2128,7 +4256,31 @@ remote runs and restarts will not work.
 
 
 
+
+
+
+
+
+
+
+
 `armada restart` to pick up the new config directories.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2160,6 +4312,22 @@ remote runs and restarts will not work.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Bug fixes:
 
 
@@ -2168,7 +4336,31 @@ remote runs and restarts will not work.
 
 
 
+
+
+
+
+
+
+
+
 - Fixed incorrect detection of dev environment during service recovery.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2200,7 +4392,31 @@ remote runs and restarts will not work.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Features
+
+
+
+
+
+
+
+
 
 
 
@@ -2216,7 +4432,23 @@ remote runs and restarts will not work.
 
 
 
+
+
+
+
+
+
+
+
 - Config directories provided with `armada run -c/--config` are additionally appended with combinations of `--env`
+
+
+
+
+
+
+
+
 
 
 
@@ -2240,6 +4472,22 @@ and `--app_id` when generating `CONFIG_PATH`.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Bug fixes
 
 
@@ -2248,7 +4496,31 @@ and `--app_id` when generating `CONFIG_PATH`.
 
 
 
+
+
+
+
+
+
+
+
 - Fix bug with not recovering services run before armada 0.15.0.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2280,7 +4552,31 @@ and `--app_id` when generating `CONFIG_PATH`.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Features
+
+
+
+
+
+
+
+
 
 
 
@@ -2296,7 +4592,23 @@ and `--app_id` when generating `CONFIG_PATH`.
 
 
 
+
+
+
+
+
+
+
+
     - --cpu-shares
+
+
+
+
+
+
+
+
 
 
 
@@ -2312,7 +4624,23 @@ and `--app_id` when generating `CONFIG_PATH`.
 
 
 
+
+
+
+
+
+
+
+
     - --memory-swap
+
+
+
+
+
+
+
+
 
 
 
@@ -2344,7 +4672,39 @@ and `--app_id` when generating `CONFIG_PATH`.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Improvements
+
+
+
+
+
+
+
+
 
 
 
@@ -2360,6 +4720,14 @@ and `--app_id` when generating `CONFIG_PATH`.
 
 
 
+
+
+
+
+
+
+
+
 - As a result built-in `hermes` has been marked as deprecated.
 
 
@@ -2368,7 +4736,31 @@ and `--app_id` when generating `CONFIG_PATH`.
 
 
 
+
+
+
+
+
+
+
+
 - Suggest working workaround for accessing http dockyards in case they are running behind main-haproxy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2400,7 +4792,31 @@ and `--app_id` when generating `CONFIG_PATH`.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Bug fixes
+
+
+
+
+
+
+
+
 
 
 
@@ -2416,7 +4832,31 @@ and `--app_id` when generating `CONFIG_PATH`.
 
 
 
+
+
+
+
+
+
+
+
 - Fix bug with pulling image without explicit tag.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2448,7 +4888,31 @@ and `--app_id` when generating `CONFIG_PATH`.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Features
+
+
+
+
+
+
+
+
 
 
 
@@ -2464,6 +4928,14 @@ and `--app_id` when generating `CONFIG_PATH`.
 
 
 
+
+
+
+
+
+
+
+
 - Support for HTTPS dockyards with self-signed certificates.
 
 
@@ -2472,7 +4944,23 @@ and `--app_id` when generating `CONFIG_PATH`.
 
 
 
+
+
+
+
+
+
+
+
 - Detect not working remote HTTP dockyards and suggest workaround.
+
+
+
+
+
+
+
+
 
 
 
@@ -2496,7 +4984,31 @@ and `--app_id` when generating `CONFIG_PATH`.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Improvements
+
+
+
+
+
+
+
+
 
 
 
@@ -2512,6 +5024,14 @@ and `--app_id` when generating `CONFIG_PATH`.
 
 
 
+
+
+
+
+
+
+
+
 - Run Consul using os.execv instead of spawning new process, which makes Consul's logs available in supervisor.
 
 
@@ -2520,7 +5040,23 @@ and `--app_id` when generating `CONFIG_PATH`.
 
 
 
+
+
+
+
+
+
+
+
 - Store sorted container parameters in `/opt/armada/` on Ship, to make checking differences between versions easier.
+
+
+
+
+
+
+
+
 
 
 
@@ -2544,7 +5080,31 @@ and `--app_id` when generating `CONFIG_PATH`.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Bug fixes
+
+
+
+
+
+
+
+
 
 
 
@@ -2560,7 +5120,31 @@ and `--app_id` when generating `CONFIG_PATH`.
 
 
 
+
+
+
+
+
+
+
+
 - [Vagrant](https://github.com/armadaplatform/vagrant "Armada Vagrant") origin_dockyard_address parameter works properly with local dockyards by running localhost proxy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2592,7 +5176,31 @@ and `--app_id` when generating `CONFIG_PATH`.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Bug fixes
+
+
+
+
+
+
+
+
 
 
 
@@ -2608,7 +5216,31 @@ and `--app_id` when generating `CONFIG_PATH`.
 
 
 
+
+
+
+
+
+
+
+
 `KeyError - '22/tcp'`.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2640,7 +5272,31 @@ and `--app_id` when generating `CONFIG_PATH`.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Features
+
+
+
+
+
+
+
+
 
 
 
@@ -2664,7 +5320,31 @@ and `--app_id` when generating `CONFIG_PATH`.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Improvements
+
+
+
+
+
+
+
+
 
 
 
@@ -2680,6 +5360,14 @@ and `--app_id` when generating `CONFIG_PATH`.
 
 
 
+
+
+
+
+
+
+
+
 - Increase timeouts to docker server, dockyards and local haproxy.
 
 
@@ -2688,7 +5376,31 @@ and `--app_id` when generating `CONFIG_PATH`.
 
 
 
+
+
+
+
+
+
+
+
 - Remove hack for manual installing pip on Ubuntu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2720,7 +5432,31 @@ and `--app_id` when generating `CONFIG_PATH`.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Due to Consul upgrade, the promoted Armada agents (leaders and commanders) with version >= 0.13.0 cannot be mixed with
+
+
+
+
+
+
+
+
 
 
 
@@ -2736,6 +5472,14 @@ older versions.
 
 
 
+
+
+
+
+
+
+
+
 There is a 15 minute window for upgrade. See more details:
 
 
@@ -2744,7 +5488,31 @@ There is a 15 minute window for upgrade. See more details:
 
 
 
+
+
+
+
+
+
+
+
 https://github.com/hashicorp/consul/commit/f53bd94dc334c56968ac4e33e19d9ca6a2b5aa22
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2776,7 +5544,31 @@ https://github.com/hashicorp/consul/commit/f53bd94dc334c56968ac4e33e19d9ca6a2b5a
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Features
+
+
+
+
+
+
+
+
 
 
 
@@ -2792,6 +5584,14 @@ https://github.com/hashicorp/consul/commit/f53bd94dc334c56968ac4e33e19d9ca6a2b5a
 
 
 
+
+
+
+
+
+
+
+
 `docker exec` options. Also the default behavior has been changed in case the command is provided. Both options,
 
 
@@ -2800,7 +5600,23 @@ https://github.com/hashicorp/consul/commit/f53bd94dc334c56968ac4e33e19d9ca6a2b5a
 
 
 
+
+
+
+
+
+
+
+
 `-t` and `-i`, are turned off then.
+
+
+
+
+
+
+
+
 
 
 
@@ -2824,6 +5640,22 @@ https://github.com/hashicorp/consul/commit/f53bd94dc334c56968ac4e33e19d9ca6a2b5a
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Improvements
 
 
@@ -2832,7 +5664,23 @@ https://github.com/hashicorp/consul/commit/f53bd94dc334c56968ac4e33e19d9ca6a2b5a
 
 
 
+
+
+
+
+
+
+
+
 - Added link to docker docs about configuring insecure registries when connection to such registry is attempted.
+
+
+
+
+
+
+
+
 
 
 
@@ -2856,7 +5704,31 @@ https://github.com/hashicorp/consul/commit/f53bd94dc334c56968ac4e33e19d9ca6a2b5a
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Bug fixes
+
+
+
+
+
+
+
+
 
 
 
@@ -2872,7 +5744,31 @@ https://github.com/hashicorp/consul/commit/f53bd94dc334c56968ac4e33e19d9ca6a2b5a
 
 
 
+
+
+
+
+
+
+
+
 - Fix recovering services after Docker/host restart.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2904,7 +5800,31 @@ https://github.com/hashicorp/consul/commit/f53bd94dc334c56968ac4e33e19d9ca6a2b5a
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Improvements
+
+
+
+
+
+
+
+
 
 
 
@@ -2928,7 +5848,31 @@ https://github.com/hashicorp/consul/commit/f53bd94dc334c56968ac4e33e19d9ca6a2b5a
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Bug fixes
+
+
+
+
+
+
+
+
 
 
 
@@ -2944,6 +5888,14 @@ https://github.com/hashicorp/consul/commit/f53bd94dc334c56968ac4e33e19d9ca6a2b5a
 
 
 
+
+
+
+
+
+
+
+
 - Use commands `python2` and `pip2` on Armada host in case the default python is 3.x.
 
 
@@ -2952,7 +5904,23 @@ https://github.com/hashicorp/consul/commit/f53bd94dc334c56968ac4e33e19d9ca6a2b5a
 
 
 
+
+
+
+
+
+
+
+
 (Contributed by [ryneeverett](https://github.com/ryneeverett))
+
+
+
+
+
+
+
+
 
 
 
@@ -2968,7 +5936,31 @@ https://github.com/hashicorp/consul/commit/f53bd94dc334c56968ac4e33e19d9ca6a2b5a
 
 
 
+
+
+
+
+
+
+
+
 (Contributed by [ryneeverett](https://github.com/ryneeverett))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3000,7 +5992,31 @@ https://github.com/hashicorp/consul/commit/f53bd94dc334c56968ac4e33e19d9ca6a2b5a
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Improvements
+
+
+
+
+
+
+
+
 
 
 
@@ -3016,7 +6032,23 @@ https://github.com/hashicorp/consul/commit/f53bd94dc334c56968ac4e33e19d9ca6a2b5a
 
 
 
+
+
+
+
+
+
+
+
 - Revamped `armada ssh` command by moving `sshd` process from microservice image to Armada container.
+
+
+
+
+
+
+
+
 
 
 
@@ -3032,7 +6064,23 @@ https://github.com/hashicorp/consul/commit/f53bd94dc334c56968ac4e33e19d9ca6a2b5a
 
 
 
+
+
+
+
+
+
+
+
     - In order to enter container on another host, ssh is used to connect to remote Armada container.
+
+
+
+
+
+
+
+
 
 
 
@@ -3056,6 +6104,22 @@ https://github.com/hashicorp/consul/commit/f53bd94dc334c56968ac4e33e19d9ca6a2b5a
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Features
 
 
@@ -3064,7 +6128,39 @@ https://github.com/hashicorp/consul/commit/f53bd94dc334c56968ac4e33e19d9ca6a2b5a
 
 
 
+
+
+
+
+
+
+
+
 - Added microservice_python3.5 base image.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3104,7 +6200,31 @@ https://github.com/hashicorp/consul/commit/f53bd94dc334c56968ac4e33e19d9ca6a2b5a
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Improvements
+
+
+
+
+
+
+
+
 
 
 
@@ -3136,7 +6256,39 @@ https://github.com/hashicorp/consul/commit/f53bd94dc334c56968ac4e33e19d9ca6a2b5a
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - Changed `armada create` command syntax from `armada create {template_name} [--name/-n {service_name}]` to `armada create {service-name} [--base-template/-b {template}]`. Default value for `--base-template` is  `python`.
+
+
+
+
+
+
+
+
 
 
 
@@ -3160,7 +6312,31 @@ https://github.com/hashicorp/consul/commit/f53bd94dc334c56968ac4e33e19d9ca6a2b5a
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Features
+
+
+
+
+
+
+
+
 
 
 
@@ -3184,6 +6360,22 @@ https://github.com/hashicorp/consul/commit/f53bd94dc334c56968ac4e33e19d9ca6a2b5a
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Bug fixes
 
 
@@ -3192,7 +6384,31 @@ https://github.com/hashicorp/consul/commit/f53bd94dc334c56968ac4e33e19d9ca6a2b5a
 
 
 
+
+
+
+
+
+
+
+
 - `armada create` command now works properly in any directory on system.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3224,7 +6440,31 @@ https://github.com/hashicorp/consul/commit/f53bd94dc334c56968ac4e33e19d9ca6a2b5a
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Features
+
+
+
+
+
+
+
+
 
 
 
@@ -3240,6 +6480,14 @@ https://github.com/hashicorp/consul/commit/f53bd94dc334c56968ac4e33e19d9ca6a2b5a
 
 
 
+
+
+
+
+
+
+
+
 - New armada service - [example-udp](https://github.com/armadaplatform/example-udp) that demonstrates registering UDP
 
 
@@ -3248,7 +6496,31 @@ https://github.com/hashicorp/consul/commit/f53bd94dc334c56968ac4e33e19d9ca6a2b5a
 
 
 
+
+
+
+
+
+
+
+
 services and discovering it by others.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3280,6 +6552,22 @@ services and discovering it by others.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Features
 
 
@@ -3288,7 +6576,23 @@ services and discovering it by others.
 
 
 
+
+
+
+
+
+
+
+
 - New base image `microservice_node4` with node v4.0.0.
+
+
+
+
+
+
+
+
 
 
 
@@ -3312,7 +6616,31 @@ services and discovering it by others.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Improvements
+
+
+
+
+
+
+
+
 
 
 
@@ -3328,6 +6656,14 @@ services and discovering it by others.
 
 
 
+
+
+
+
+
+
+
+
 service's downtime is minimized.
 
 
@@ -3336,7 +6672,39 @@ service's downtime is minimized.
 
 
 
+
+
+
+
+
+
+
+
 - Changed way of determining time when Docker daemon started to prevent unnecessary services' recoveries.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3376,6 +6744,22 @@ service's downtime is minimized.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Improvements
 
 
@@ -3384,7 +6768,31 @@ service's downtime is minimized.
 
 
 
+
+
+
+
+
+
+
+
 - Updated node.js in `microservice_node` base image from v0.10.25 to v0.12.7.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3416,7 +6824,31 @@ service's downtime is minimized.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Bug fixes
+
+
+
+
+
+
+
+
 
 
 
@@ -3432,7 +6864,31 @@ service's downtime is minimized.
 
 
 
+
+
+
+
+
+
+
+
 - Fixed docker error when running restart-armada development script.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3464,7 +6920,31 @@ service's downtime is minimized.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Improvements
+
+
+
+
+
+
+
+
 
 
 
@@ -3480,6 +6960,14 @@ service's downtime is minimized.
 
 
 
+
+
+
+
+
+
+
+
 Containers will no longer spawn multiple zombie processes e.g. after armada ssh command.
 
 
@@ -3488,7 +6976,39 @@ Containers will no longer spawn multiple zombie processes e.g. after armada ssh 
 
 
 
+
+
+
+
+
+
+
+
 - Note: **This change requires rebuilding services created before this fix.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3528,6 +7048,22 @@ Containers will no longer spawn multiple zombie processes e.g. after armada ssh 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Improvements
 
 
@@ -3536,7 +7072,39 @@ Containers will no longer spawn multiple zombie processes e.g. after armada ssh 
 
 
 
+
+
+
+
+
+
+
+
 - Access Consul agent from Armada commands by localhost, instead of private Docker IP, as it sometimes causes hanging requests.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3576,6 +7144,22 @@ Containers will no longer spawn multiple zombie processes e.g. after armada ssh 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Features
 
 
@@ -3584,7 +7168,39 @@ Containers will no longer spawn multiple zombie processes e.g. after armada ssh 
 
 
 
+
+
+
+
+
+
+
+
 - Added parameter `--rename` to `armada run`.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3624,6 +7240,22 @@ Containers will no longer spawn multiple zombie processes e.g. after armada ssh 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Improvements
 
 
@@ -3632,7 +7264,39 @@ Containers will no longer spawn multiple zombie processes e.g. after armada ssh 
 
 
 
+
+
+
+
+
+
+
+
 - `armada stop` and `armada restart` will now display microservice name and container id regardless of passed parameter.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3672,6 +7336,22 @@ Containers will no longer spawn multiple zombie processes e.g. after armada ssh 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Bug fixes
 
 
@@ -3680,7 +7360,39 @@ Containers will no longer spawn multiple zombie processes e.g. after armada ssh 
 
 
 
+
+
+
+
+
+
+
+
 - Fixed `armada run` command on systems running python 2.6.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3720,6 +7432,22 @@ Containers will no longer spawn multiple zombie processes e.g. after armada ssh 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Improvements
 
 
@@ -3728,7 +7456,39 @@ Containers will no longer spawn multiple zombie processes e.g. after armada ssh 
 
 
 
+
+
+
+
+
+
+
+
 - `armada run` now waits for the dockyards list to be restored from `runtime_settings.json`.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3768,6 +7528,22 @@ Containers will no longer spawn multiple zombie processes e.g. after armada ssh 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Bug fixes
 
 
@@ -3776,7 +7552,39 @@ Containers will no longer spawn multiple zombie processes e.g. after armada ssh 
 
 
 
+
+
+
+
+
+
+
+
 - Fixed setting first dockyard as the default.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3816,6 +7624,22 @@ Containers will no longer spawn multiple zombie processes e.g. after armada ssh 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Bug fixes
 
 
@@ -3824,7 +7648,23 @@ Containers will no longer spawn multiple zombie processes e.g. after armada ssh 
 
 
 
+
+
+
+
+
+
+
+
 - Fixed race condition bug when one service wants to discover multiple other services using local magellan (e.g. multiple
+
+
+
+
+
+
+
+
 
 
 
@@ -3848,7 +7688,31 @@ Containers will no longer spawn multiple zombie processes e.g. after armada ssh 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Improvements
+
+
+
+
+
+
+
+
 
 
 
@@ -3864,7 +7728,39 @@ Containers will no longer spawn multiple zombie processes e.g. after armada ssh 
 
 
 
+
+
+
+
+
+
+
+
 Instead, services based on `microservice` image report health checks directly to Consul.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3904,7 +7800,31 @@ Instead, services based on `microservice` image report health checks directly to
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Features
+
+
+
+
+
+
+
+
 
 
 
@@ -3928,7 +7848,31 @@ Instead, services based on `microservice` image report health checks directly to
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Improvements
+
+
+
+
+
+
+
+
 
 
 
@@ -3944,6 +7888,14 @@ Instead, services based on `microservice` image report health checks directly to
 
 
 
+
+
+
+
+
+
+
+
 - Armada commands now work properly with multi-service containers.
 
 
@@ -3952,7 +7904,31 @@ Instead, services based on `microservice` image report health checks directly to
 
 
 
+
+
+
+
+
+
+
+
 - Services' initial health check is no longer set to 'passing'. Instead health checks are run on startup after a slight delay.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3984,6 +7960,22 @@ Instead, services based on `microservice` image report health checks directly to
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Bug fixes
 
 
@@ -3992,7 +7984,39 @@ Instead, services based on `microservice` image report health checks directly to
 
 
 
+
+
+
+
+
+
+
+
 - Updated docker-py library to 1.2.2 to fix authorization bug on docker pull.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4032,6 +8056,22 @@ Instead, services based on `microservice` image report health checks directly to
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Improvements
 
 
@@ -4040,7 +8080,39 @@ Instead, services based on `microservice` image report health checks directly to
 
 
 
+
+
+
+
+
+
+
+
 - `armada recover` now retries up to 5 times and returns list of those that failed to restart within retry limit if there were any.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4080,7 +8152,31 @@ Instead, services based on `microservice` image report health checks directly to
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Improvements
+
+
+
+
+
+
+
+
 
 
 
@@ -4096,7 +8192,39 @@ Instead, services based on `microservice` image report health checks directly to
 
 
 
+
+
+
+
+
+
+
+
 - Skip passing internal Armada's environment variables to crontab.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4136,7 +8264,31 @@ Instead, services based on `microservice` image report health checks directly to
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Improvements
+
+
+
+
+
+
+
+
 
 
 
@@ -4160,6 +8312,22 @@ Instead, services based on `microservice` image report health checks directly to
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - Improved local magellan with 'env inheritance' denoted by '/'. Now when using require_service script, if a service with matching MICROSERVICE_ENV is not found, local magellan will look for a service with 'parent' MICROSERVICE_ENV.
 
 
@@ -4168,7 +8336,39 @@ Instead, services based on `microservice` image report health checks directly to
 
 
 
+
+
+
+
+
+
+
+
 e.g. if running a service with `production/my-app/my-name` env, local magellan will first look for a service with `production/my-app/my-name` env, then `production/my-app` env and finally `production` env.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4208,6 +8408,22 @@ e.g. if running a service with `production/my-app/my-name` env, local magellan w
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Improvements
 
 
@@ -4216,7 +8432,39 @@ e.g. if running a service with `production/my-app/my-name` env, local magellan w
 
 
 
+
+
+
+
+
+
+
+
 - `microservice` - Local magellan now configures HAProxy to actively refuse connections when required service is not available.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4256,6 +8504,22 @@ e.g. if running a service with `production/my-app/my-name` env, local magellan w
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Bug fixes
 
 
@@ -4264,7 +8528,39 @@ e.g. if running a service with `production/my-app/my-name` env, local magellan w
 
 
 
+
+
+
+
+
+
+
+
 - Fixed `armada shutdown` behaviour on CentOS.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4304,6 +8600,22 @@ e.g. if running a service with `production/my-app/my-name` env, local magellan w
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Bug fixes
 
 
@@ -4312,7 +8624,39 @@ e.g. if running a service with `production/my-app/my-name` env, local magellan w
 
 
 
+
+
+
+
+
+
+
+
 - Local magellan: `require_service.py` can now be overridden with empty `--env` or `--app_id`.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4352,6 +8696,22 @@ e.g. if running a service with `production/my-app/my-name` env, local magellan w
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Bug fixes
 
 
@@ -4360,7 +8720,39 @@ e.g. if running a service with `production/my-app/my-name` env, local magellan w
 
 
 
+
+
+
+
+
+
+
+
 - Fixed running containers from dockyards with authentication required, once again.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4400,7 +8792,31 @@ e.g. if running a service with `production/my-app/my-name` env, local magellan w
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Features
+
+
+
+
+
+
+
+
 
 
 
@@ -4416,6 +8832,14 @@ e.g. if running a service with `production/my-app/my-name` env, local magellan w
 
 
 
+
+
+
+
+
+
+
+
 - `service armada stop` now doesn't remove runtime info about ship name, dockyards and connected ships.
 
 
@@ -4424,7 +8848,23 @@ e.g. if running a service with `production/my-app/my-name` env, local magellan w
 
 
 
+
+
+
+
+
+
+
+
 Previous behaviour is available with command `service armada shutdown`.
+
+
+
+
+
+
+
+
 
 
 
@@ -4448,6 +8888,22 @@ Previous behaviour is available with command `service armada shutdown`.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Bug fixes
 
 
@@ -4456,7 +8912,39 @@ Previous behaviour is available with command `service armada shutdown`.
 
 
 
+
+
+
+
+
+
+
+
 - Fixed `armada push` for default dockyard.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4496,6 +8984,22 @@ Previous behaviour is available with command `service armada shutdown`.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Bug fixes
 
 
@@ -4504,7 +9008,39 @@ Previous behaviour is available with command `service armada shutdown`.
 
 
 
+
+
+
+
+
+
+
+
 - Fixed running containers from dockyards with authentication required.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4544,7 +9080,31 @@ Previous behaviour is available with command `service armada shutdown`.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Bug fixes
+
+
+
+
+
+
+
+
 
 
 
@@ -4568,6 +9128,22 @@ Previous behaviour is available with command `service armada shutdown`.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Improvements
 
 
@@ -4576,7 +9152,39 @@ Previous behaviour is available with command `service armada shutdown`.
 
 
 
+
+
+
+
+
+
+
+
 - No retries when `docker build` command failed, as it usually indicates problem with Dockerfile or that user pressed Ctrl + c.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4616,6 +9224,22 @@ Previous behaviour is available with command `service armada shutdown`.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Bug fixes
 
 
@@ -4624,7 +9248,39 @@ Previous behaviour is available with command `service armada shutdown`.
 
 
 
+
+
+
+
+
+
+
+
 - `armada push` now handles dockyards' authentication.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4664,7 +9320,31 @@ Previous behaviour is available with command `service armada shutdown`.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Features
+
+
+
+
+
+
+
+
 
 
 
@@ -4688,6 +9368,22 @@ Previous behaviour is available with command `service armada shutdown`.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Bug fixes
 
 
@@ -4696,7 +9392,39 @@ Previous behaviour is available with command `service armada shutdown`.
 
 
 
+
+
+
+
+
+
+
+
 - Detect failures of pulling from dockyards and return non-zero code to system.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4736,7 +9464,31 @@ Previous behaviour is available with command `service armada shutdown`.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Features
+
+
+
+
+
+
+
+
 
 
 
@@ -4752,6 +9504,14 @@ Previous behaviour is available with command `service armada shutdown`.
 
 
 
+
+
+
+
+
+
+
+
 - `armada recover` command for manual recovery of running services from previously saved state.
 
 
@@ -4760,7 +9520,39 @@ Previous behaviour is available with command `service armada shutdown`.
 
 
 
+
+
+
+
+
+
+
+
 - Running containers' parameters are backed up every 1h in `/opt/armada/saved_containers_backup/` for `armada recover` use.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4800,7 +9592,31 @@ Previous behaviour is available with command `service armada shutdown`.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Initial Armada version.
+
+
+
+
+
+
+
+
 
 
 
