@@ -1534,7 +1534,7 @@ RUN chmod +x /usr/local/bin/armada
 
 
 
-ENV ARMADA_VERSION 1.3.79
+ENV ARMADA_VERSION 1.3.83
 RUN echo __version__ = \"armada ${ARMADA_VERSION}\" > /opt/armada-docker/armada_command/_version.py
 
 
